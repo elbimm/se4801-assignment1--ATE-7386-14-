@@ -7,3 +7,4 @@ ID: ATE/7386/14
 
 ## Postman Collection
 The API collection for testing is located in the repository at:
+https://github.com/elbimm/se4801-assignment1--ATE-7386-14-/blob/dd005adb89df693c5fc88ecd46a2a5d9d2588180/product-service-lab2.postman_collection.json
